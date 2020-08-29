@@ -1,3 +1,3 @@
 # Photon_Tutorial
 
-* Networking Concepts using Photon
+* Steps to setup Photon in your project
