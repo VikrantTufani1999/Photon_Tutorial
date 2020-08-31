@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 09d0103ceacfcb743b198800ff52ee7f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retro Remembers
+  fontNames:
+  - Retro Remembers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0a15a564d1aa1d478aca0cd4a4ea8d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
