@@ -2,4 +2,4 @@
 
 ##### Steps to setup Photon in your project
 - Download PUN2 from Unity Asset store and import it inot your unity project.
-- Setup Multiplayer Environment and introduce players
+- Setup Multiplayer Environment and introduce players.
